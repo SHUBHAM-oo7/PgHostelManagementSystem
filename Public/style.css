@@ -1,0 +1,40 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* White background */
+    color: #000000; /* Black text */
+}
+
+header {
+    background-color: #1e8449; /* Green header */
+    padding: 20px;
+    text-align: center;
+    color: #ffffff; /* White text */
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #2980b9; /* Blue heading */
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    header {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 576px) {
+    header {
+        font-size: 16px;
+    }
+}

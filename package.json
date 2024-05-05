@@ -1,0 +1,12 @@
+{
+  "name": "pghostelmanagementsystem",
+  "version": "1.0.0",
+  "description": "This System Helps in booking and getting rented services",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Shubham Singh",
+  "license": "ISC"
+}
